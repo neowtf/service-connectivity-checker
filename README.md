@@ -18,4 +18,6 @@ A Python script to test connectivity for domains and raw IPs
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/neowtf/service-connectivity-checker/main/install.sh)
+
+```
 After installation, use checknet to run
