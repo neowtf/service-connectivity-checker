@@ -19,7 +19,7 @@ pip3 install dnspython
 
 # ----- 4. Download the checker script -----
 echo "[4/5] Downloading check_services.py ..."
-curl -o /usr/local/bin/check_services.py https://raw.githubusercontent.com/USERNAME/REPO/main/check_services.py
+curl -o /usr/local/bin/check_services.py https://raw.githubusercontent.com/neowtf/service-connectivity-checker/main/check_services.py
 
 # (در نهایت یادت نره بالا USERNAME/REPO رو صحیح بذاری)
 
